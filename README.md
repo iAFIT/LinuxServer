@@ -10,8 +10,8 @@ Udacity Full Stack Web Developer Nanodegree Project : Linux Server Configuration
 http://18.185.61.67.xip.io/
 
 ## to enter the server use this command
-ssh grader@18.185.61.67 -p 2200 -i grader
-password = "udacity"
+* ssh grader@18.185.61.67 -p 2200 -i grader
+* password = "udacity"
 
 ## Summary of software installed and configuration changes made
 
